@@ -5,10 +5,10 @@
 
 <!-- BADGES RESEAUX -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniellevy2904/">
+  <a href="https://www.linkedin.com/in/orel-abecassis-488ba7203/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://discordapp.com/users/orelAbecassis#5510">
+  <a href="https://discordapp.com/users/775785441198211113">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
