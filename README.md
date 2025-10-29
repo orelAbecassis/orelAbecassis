@@ -15,7 +15,9 @@
 
 <!-- TITRE AVEC ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Glory&size=24&center=true&vCenter=true&width=500&lines=Fullstack+%26+Mobile+Developer;Node.js+|+React+Vue.js+|+Flutter;Data+Architecture+%26+Automation" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Glory&size=24&center=true&vCenter=true&width=500&lines=Project+Manager+%26+DevOps;Cheffe+de+projet+informatique;Innovation+%26+Automatisation" alt="Typing SVG">
+</p>
+
 </p>
 
 ---
