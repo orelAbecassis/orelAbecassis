@@ -1,6 +1,7 @@
 <!-- BANNIÈRE -->
 <p align="center">
-  <img src="https://github.com/orelAbecassis/blob/main/img.png?raw=true" alt="Header image" width="100%">
+  <img src="https://github.com/orelAbecassis/orelAbecassis/blob/main/img.png?raw=true
+  " alt="Header image" width="100%">
 </p>
 
 <!-- BADGES RESEAUX -->
