@@ -15,7 +15,7 @@
 
 <!-- TITRE AVEC ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Glory&size=24&center=true&vCenter=true&width=500&lines=Project+Manager+%26+DevOps;Cheffe+de+projet+informatique;Innovation+%26+Automatisation" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Glory&size=24&center=true&vCenter=true&width=500&lines=Cheffe+de+projet+informatique;Fullstack+%26+DevOps;Innovation+%26+Automatisation" alt="Typing SVG">
 </p>
 
 </p>
@@ -36,14 +36,12 @@
 ## 🛠 Skills
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-ffca28?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/React%20Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Oracle-02569B?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Jenkins-2496ed?style=for-the-badge&logo=jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/HTMl-339933?style=for-the-badge&logo=HTML&logoColor=white">
 
  
   
