@@ -36,11 +36,11 @@
 ## 🛠 Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-ffca28?style=for-the-badge&logo=python&logoColor=white">
+ <img src="https://img.shields.io/badge/Python-D4A017?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-02569B?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Jenkins-2496ed?style=for-the-badge&logo=jenkins&logoColor=white">
+    <img src="https://img.shields.io/badge/Jenkins-FF370D?style=for-the-badge&logo=jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 
  
