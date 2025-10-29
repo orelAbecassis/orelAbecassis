@@ -1,6 +1,6 @@
 <!-- BANNIÈRE -->
 <p align="center">
-  <img src="https://github.com/orelAbecassis/blob/main/img.jpg?raw=true" alt="Header image" width="100%">
+  <img src="https://github.com/orelAbecassis/blob/main/img.png?raw=true" alt="Header image" width="100%">
 </p>
 
 <!-- BADGES RESEAUX -->
@@ -15,7 +15,7 @@
 
 <!-- TITRE AVEC ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Glory&size=24&center=true&vCenter=true&width=500&lines=Fullstack+%26+Mobile+Developer;Node.js+|+React+Next.js+|+Flutter;Data+Architecture+%26+Automation" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Glory&size=24&center=true&vCenter=true&width=500&lines=Fullstack+%26+Mobile+Developer;Node.js+|+React+Vue.js+|+Flutter;Data+Architecture+%26+Automation" alt="Typing SVG">
 </p>
 
 ---
